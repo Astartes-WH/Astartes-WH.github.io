@@ -1,0 +1,83 @@
+body {
+  font-family: Tahoma, sans-serif;
+  padding: 0 140px;
+}
+
+.Header {
+  text-align: center;
+  font-size: 24px;
+}
+
+.Header span {
+  display: block;
+  font-weight: normal;
+  line-height: 2;
+  text-transform:  none;
+}
+
+.Header {
+  text-transform: uppercase;
+}
+
+.Main {
+  margin-top: 65px;
+  text-align: center;
+}
+.Form {
+  padding: 15px;
+  font-size: 20px;
+  border: 5px solid #2727d9;
+  text-align: center;
+  margin-left: 30px;
+}
+.Video, .Form {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.Form-header {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.Form input {
+  padding: 17px;
+  border: 2.5px solid #333333;
+  border-radius: 5px;
+  width: 300px;
+  font-size: 18px;
+  margin-top: 10px;
+  display: block;
+}
+
+.Form-btn {
+font-size: 18px;
+font-weight: bold;
+color: white;
+background-color: #3c3cdd;
+width: 335px;
+height: 60px;
+border: none;
+margin-top: 11px;
+}
+
+.Section {
+  margin-bottom: 70px;
+  width: 1030px;
+}
+
+.Icons {
+  display: inline-block;
+  margin: 10px 30px;
+}
+
+.Feature {
+  margin-top: 87px;
+  text-align: center;
+
+}
+
+p {
+  font-weight: bold;
+}
